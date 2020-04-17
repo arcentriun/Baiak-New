@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Tower 1" houseid="1" entryx="155" entryy="107" entryz="7" rent="0" townid="1" size="85" />
+	<house name="Small Street IV" houseid="3" entryx="144" entryy="27" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Pirate Street" houseid="8" entryx="176" entryy="57" entryz="7" rent="0" townid="0" size="44" />
+	<house name="Bamboo Camp I" houseid="10" entryx="181" entryy="105" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Bamboo Camp II" houseid="11" entryx="171" entryy="102" entryz="7" rent="0" townid="1" size="13" />
+	<house name="Bamboo Camp IV" houseid="13" entryx="185" entryy="97" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Bamboo Camp V" houseid="14" entryx="185" entryy="101" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Bamboo Camp VI" houseid="15" entryx="185" entryy="105" entryz="7" rent="0" townid="1" size="13" />
+	<house name="Great Street I" houseid="25" entryx="157" entryy="29" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Great Street II" houseid="26" entryx="163" entryy="32" entryz="7" rent="0" townid="1" size="28" />
+	<house name="HOUSE OF TEMPLE III" houseid="30" entryx="147" entryy="63" entryz="7" rent="0" townid="1" size="40" />
+	<house name="River Street IV" houseid="31" entryx="158" entryy="58" entryz="6" rent="0" townid="1" size="33" />
+	<house name="River Street V" houseid="32" entryx="153" entryy="58" entryz="6" rent="0" townid="1" size="26" />
+	<house name="River Street VI" houseid="33" entryx="147" entryy="58" entryz="6" rent="0" townid="1" size="40" />
+	<house name="Condominio Europa II" houseid="35" entryx="144" entryy="41" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Condominio Europa III" houseid="36" entryx="145" entryy="48" entryz="6" rent="0" townid="1" size="27" />
+	<house name="Upper Street IV" houseid="40" entryx="168" entryy="26" entryz="5" rent="0" townid="1" size="20" />
+	<house name="Upper Street V" houseid="41" entryx="168" entryy="28" entryz="5" rent="0" townid="1" size="23" />
+	<house name="Heavy Depot House" houseid="42" entryx="129" entryy="61" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Heavy Depot House II" houseid="43" entryx="133" entryy="62" entryz="6" rent="0" townid="1" size="36" />
+	<house name="Small Street V" houseid="44" entryx="141" entryy="36" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Small Street VI" houseid="45" entryx="147" entryy="29" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Small Street VII" houseid="46" entryx="147" entryy="32" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Safe House I" houseid="52" entryx="78" entryy="27" entryz="7" rent="0" townid="1" size="14" />
+	<house name="Safe House II" houseid="53" entryx="82" entryy="26" entryz="7" rent="0" townid="1" size="6" />
+	<house name="Safe House III" houseid="54" entryx="86" entryy="24" entryz="7" rent="0" townid="1" size="8" />
+	<house name="Safe House IV" houseid="55" entryx="87" entryy="32" entryz="7" rent="0" townid="1" size="6" />
+	<house name="Port house I" houseid="56" entryx="122" entryy="67" entryz="7" rent="0" townid="1" size="15" />
+	<house name="Port house II" houseid="57" entryx="119" entryy="69" entryz="7" rent="0" townid="1" size="13" />
+	<house name="Hydraland I" houseid="59" entryx="114" entryy="179" entryz="7" rent="0" townid="3" size="30" />
+	<house name="Hydraland II" houseid="60" entryx="114" entryy="185" entryz="7" rent="0" townid="3" size="30" />
+	<house name="Hydraland III" houseid="61" entryx="113" entryy="202" entryz="7" rent="0" townid="3" size="42" />
+	<house name="Hydraland IV" houseid="62" entryx="121" entryy="202" entryz="7" rent="0" townid="3" size="42" />
+	<house name="Hydraland V" houseid="63" entryx="126" entryy="190" entryz="7" rent="0" townid="3" size="30" />
+	<house name="Hydraland VI" houseid="64" entryx="136" entryy="187" entryz="7" rent="0" townid="3" size="15" />
+	<house name="Hydraland VII" houseid="65" entryx="141" entryy="187" entryz="7" rent="0" townid="3" size="15" />
+	<house name="Hydraland VIII" houseid="66" entryx="152" entryy="186" entryz="7" rent="0" townid="3" size="27" />
+	<house name="Condominio Europa IV" houseid="67" entryx="145" entryy="47" entryz="5" rent="0" townid="1" size="19" />
+	<house name="Condominio Europa V" houseid="68" entryx="146" entryy="51" entryz="5" rent="0" townid="1" size="7" />
+	<house name="Condominio Europa VI" houseid="69" entryx="146" entryy="52" entryz="5" rent="0" townid="1" size="24" />
+	<house name="HOUSE OF TEMPLE I" houseid="86" entryx="165" entryy="63" entryz="7" rent="0" townid="1" size="40" />
+	<house name="HOUSE OF TEMPLE II" houseid="88" entryx="155" entryy="63" entryz="7" rent="0" townid="1" size="40" />
+	<house name="Favela House I" houseid="89" entryx="181" entryy="42" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Favela House II" houseid="90" entryx="181" entryy="38" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Favela House III" houseid="91" entryx="181" entryy="32" entryz="7" rent="0" townid="1" size="40" />
+	<house name="Favela House IV" houseid="92" entryx="180" entryy="32" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Favela House V" houseid="93" entryx="176" entryy="33" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Baiak City 1" houseid="95" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="44" />
+	<house name="Baiak City 2" houseid="96" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="63" />
+	<house name="Baiak City 3" houseid="97" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="63" />
+	<house name="Baiak City 4" houseid="98" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="72" />
+	<house name="Baiak City 5" houseid="99" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="72" />
+	<house name="Baiak City 6" houseid="100" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="60" />
+	<house name="Baiak City 7" houseid="101" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="56" />
+	<house name="Baiak City 8" houseid="102" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="69" />
+	<house name="Baiak City 9" houseid="103" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="128" />
+	<house name="Baiak City 10" houseid="104" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="64" />
+	<house name="Baiak City 11" houseid="105" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="60" />
+	<house name="Baiak City 12" houseid="106" entryx="0" entryy="0" entryz="0" rent="0" townid="4" size="64" />
+	<house name="Baiak Yurots House 1" houseid="107" entryx="99" entryy="61" entryz="7" rent="0" townid="1" size="10" />
+	<house name="Baiak Yurots House 2" houseid="108" entryx="100" entryy="65" entryz="7" rent="0" townid="1" size="17" />
+	<house name="Baiak Yurots House 3" houseid="109" entryx="98" entryy="73" entryz="7" rent="0" townid="1" size="38" />
+	<house name="Baiak Yuorts House 4" houseid="110" entryx="105" entryy="68" entryz="7" rent="0" townid="1" size="31" />
+	<house name="Baiak Yurots House 5" houseid="111" entryx="105" entryy="66" entryz="7" rent="0" townid="1" size="30" />
+	<house name="Favela House 2" houseid="112" entryx="184" entryy="49" entryz="7" rent="0" townid="1" size="51" />
+	<house name="" houseid="113" entryx="181" entryy="33" entryz="6" rent="0" townid="0" size="16" />
+	<house name="" houseid="114" entryx="182" entryy="33" entryz="6" rent="0" townid="0" size="28" />
+	<house name="" houseid="115" entryx="182" entryy="36" entryz="6" rent="0" townid="0" size="22" />
+	<house name="" houseid="116" entryx="182" entryy="42" entryz="6" rent="0" townid="0" size="28" />
+	<house name="" houseid="118" entryx="197" entryy="49" entryz="7" rent="0" townid="0" size="82" />
+	<house name="" houseid="119" entryx="199" entryy="37" entryz="7" rent="0" townid="0" size="62" />
+	<house name="" houseid="120" entryx="208" entryy="37" entryz="7" rent="0" townid="0" size="62" />
+	<house name="" houseid="121" entryx="209" entryy="38" entryz="7" rent="0" townid="0" size="68" />
+	<house name="" houseid="122" entryx="209" entryy="44" entryz="7" rent="0" townid="0" size="70" />
+	<house name="" houseid="123" entryx="209" entryy="53" entryz="7" rent="0" townid="0" size="54" />
+	<house name="" houseid="124" entryx="209" entryy="61" entryz="7" rent="0" townid="0" size="54" />
+	<house name="Baiak Guild House 1" houseid="125" entryx="104" entryy="38" entryz="7" rent="0" townid="1" size="201" />
+	<house name="River Street Max" houseid="126" entryx="165" entryy="58" entryz="6" rent="0" townid="1" size="49" />
+	<house name="Unnamed House #127" houseid="127" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="45" />
+	<house name="Unnamed House #128" houseid="128" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="31" />
+	<house name="Unnamed House #131" houseid="131" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="47" />
+	<house name="Unnamed House #132" houseid="132" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="6" />
+	<house name="Unnamed House #133" houseid="133" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="4" />
+	<house name="Unnamed House #138" houseid="138" entryx="152" entryy="45" entryz="6" rent="0" townid="1" size="14" />
+	<house name="Unnamed House #139" houseid="139" entryx="152" entryy="50" entryz="6" rent="0" townid="1" size="20" />
+	<house name="Unnamed House #140" houseid="140" entryx="152" entryy="48" entryz="6" rent="0" townid="1" size="22" />
+	<house name="Unnamed House #141" houseid="141" entryx="161" entryy="54" entryz="6" rent="0" townid="1" size="48" />
+	<house name="Unnamed House #142" houseid="142" entryx="169" entryy="52" entryz="6" rent="0" townid="1" size="28" />
+	<house name="Unnamed House #143" houseid="143" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="47" />
+	<house name="Unnamed House #144" houseid="144" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="41" />
+	<house name="Unnamed House #145" houseid="145" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="45" />
+	<house name="Unnamed House #146" houseid="146" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="45" />
+	<house name="Unnamed House #147" houseid="147" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="45" />
+	<house name="Unnamed House #148" houseid="148" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="47" />
+	<house name="Unnamed House #149" houseid="149" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="45" />
+	<house name="Unnamed House #150" houseid="150" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="45" />
+	<house name="Unnamed House #151" houseid="151" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="47" />
+	<house name="VIP DNT House #7" houseid="152" entryx="701" entryy="1579" entryz="6" rent="0" townid="1" size="101" />
+	<house name="VIP DNT House #6" houseid="153" entryx="716" entryy="1588" entryz="6" rent="0" townid="1" size="100" />
+	<house name="VIP DNT House #2" houseid="154" entryx="742" entryy="1579" entryz="7" rent="0" townid="1" size="259" />
+	<house name="VIP DNT House #4" houseid="155" entryx="730" entryy="1598" entryz="7" rent="0" townid="1" size="296" />
+	<house name="VIP DNT House #5" houseid="156" entryx="717" entryy="1578" entryz="6" rent="0" townid="1" size="89" />
+	<house name="VIP DNT House #8" houseid="157" entryx="701" entryy="1582" entryz="6" rent="0" townid="1" size="129" />
+	<house name="VIP DNT House #1" houseid="158" entryx="733" entryy="1574" entryz="7" rent="0" townid="1" size="203" />
+	<house name="VIP DNT House #3" houseid="159" entryx="742" entryy="1591" entryz="7" rent="0" townid="1" size="259" />
+	<house name="Unnamed House #160" houseid="160" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="47" />
+	<house name="VIP DNT House #9" houseid="161" entryx="707" entryy="1555" entryz="7" rent="0" townid="1" size="184" />
+	<house name="Unnamed House #162" houseid="162" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="47" />
+	<house name="Unnamed House #163" houseid="163" entryx="194" entryy="26" entryz="7" rent="0" townid="1" size="85" />
+	<house name="Unnamed House #164" houseid="164" entryx="176" entryy="97" entryz="7" rent="0" townid="1" size="13" />
+	<house name="VIP DNT House #10" houseid="165" entryx="710" entryy="1547" entryz="7" rent="0" townid="1" size="250" />
+	<house name="VIP DNT House #11" houseid="167" entryx="713" entryy="1555" entryz="7" rent="0" townid="1" size="178" />
+	<house name="Deserte House I" houseid="168" entryx="228" entryy="83" entryz="7" rent="0" townid="2" size="38" />
+	<house name="Deserte House II" houseid="169" entryx="241" entryy="81" entryz="7" rent="0" townid="2" size="38" />
+	<house name="Deserte House III" houseid="170" entryx="268" entryy="65" entryz="7" rent="0" townid="2" size="46" />
+	<house name="Deserte House IV" houseid="171" entryx="275" entryy="65" entryz="7" rent="0" townid="2" size="38" />
+	<house name="Deserte House V" houseid="172" entryx="291" entryy="61" entryz="7" rent="0" townid="2" size="86" />
+	<house name="Deserte House VI" houseid="173" entryx="309" entryy="65" entryz="7" rent="0" townid="2" size="38" />
+	<house name="Deserte House VII" houseid="174" entryx="330" entryy="78" entryz="7" rent="0" townid="2" size="34" />
+	<house name="Deserte House VIII" houseid="175" entryx="320" entryy="120" entryz="6" rent="0" townid="2" size="26" />
+	<house name="Deserte House IX" houseid="176" entryx="309" entryy="119" entryz="7" rent="0" townid="2" size="34" />
+	<house name="Deserte House X" houseid="177" entryx="302" entryy="120" entryz="7" rent="0" townid="2" size="34" />
+	<house name="Deserte House XI" houseid="178" entryx="291" entryy="120" entryz="7" rent="0" townid="2" size="34" />
+	<house name="Deserte House XII" houseid="179" entryx="270" entryy="109" entryz="6" rent="0" townid="2" size="24" />
+	<house name="Deserte House XIII" houseid="180" entryx="243" entryy="118" entryz="6" rent="0" townid="2" size="26" />
+	<house name="Deserte House XIV" houseid="181" entryx="226" entryy="114" entryz="6" rent="0" townid="2" size="34" />
+	<house name="Deserte House XV" houseid="182" entryx="245" entryy="109" entryz="5" rent="0" townid="2" size="18" />
+	<house name="Deserte House XVI" houseid="183" entryx="296" entryy="102" entryz="5" rent="0" townid="2" size="21" />
+	<house name="Upper Street VI" houseid="185" entryx="165" entryy="26" entryz="6" rent="0" townid="1" size="32" />
+	<house name="Upper Street VII" houseid="186" entryx="165" entryy="28" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Upper Street VIII" houseid="187" entryx="165" entryy="30" entryz="6" rent="0" townid="1" size="13" />
+</houses>
