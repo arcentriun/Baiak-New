@@ -1,4 +1,4 @@
-1. Compiled:
+1. Compile:
 	* x32 (visual studio): https://github.com/Fir3element/binaries/raw/master/x32.rar
 	* x32 (dev-cpp): https://github.com/Fir3element/binaries/raw/master/x32_dev.rar
 	* x64 (visual studio): https://github.com/Fir3element/binaries/raw/master/x64.rar
